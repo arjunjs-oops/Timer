@@ -4,6 +4,6 @@
 ```Set 10 min's Timer```
 
 
-### To DO:
+### To Do:
 * Save Screen Configuration 
 * Run on Background Service
