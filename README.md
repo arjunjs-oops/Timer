@@ -5,5 +5,6 @@
 
 
 ### To DO:
-1.Save Screen Configuration
-2.Run on Background Service
+
+*Save Screen Configuration
+*Run on Background Service
